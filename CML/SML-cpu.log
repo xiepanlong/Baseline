@@ -1,0 +1,28 @@
+10403 features over tag_occurence_thres (5)
+79527/25186/31555 train/valid/test samples
+
+Recall on (sampled) validation set: 0.0033333333333333335
+
+Training loss 49241.0390625
+
+Recall on (sampled) validation set: 0.22464986023924316
+
+Training loss 49012.7734375
+
+Recall on (sampled) validation set: 0.2190974073986778
+
+Training loss 48993.56640625
+
+Recall on (sampled) validation set: 0.22946300028196578
+
+Training loss 48984.84375
+
+Recall on (sampled) validation set: 0.2345351055645974
+
+Training loss 48979.88671875
+
+Recall on (sampled) validation set: 0.2420434159676446
+
+Training loss 48974.9453125
+
+Recall on (sampled) validation set: 0.2141558561590322
