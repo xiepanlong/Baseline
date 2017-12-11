@@ -1,0 +1,376 @@
+10403 features over tag_occurence_thres (5)
+79527/25186/31555 train/valid/test samples
+
+Recall on (sampled) validation set: 0.0015053981106612686
+
+Training loss 50576.6640625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5703125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.73046875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.48828125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.671875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.46875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.265625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.640625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.42578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.58984375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.42578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5546875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.53125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5859375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.59375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.51171875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6015625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.67578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.55859375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.4453125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6796875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6640625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.67578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5234375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.640625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.359375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.63671875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6796875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5234375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.55078125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.48828125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.53125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.40625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.51171875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.63671875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6015625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.37109375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.4765625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5234375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.4609375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.203125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.58984375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.44921875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.59375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.484375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.46875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.46484375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5390625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.28125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6796875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.4453125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6640625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.32421875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.7890625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.671875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.76953125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.44140625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.28515625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.58984375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5390625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.58984375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.69921875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.609375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.25
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.453125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.6796875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.73828125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.57421875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.484375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.390625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.80859375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.421875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.44921875
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.46484375
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5703125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.50390625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.50390625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.48828125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.3515625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.67578125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.36328125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.50390625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.5
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.64453125
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.640625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.53515625
+
+Recall on (sampled) validation set: 0.002195767195767196
+
+Training loss 50576.578125
+
+Recall on (sampled) validation set: 0.002195767195767196
