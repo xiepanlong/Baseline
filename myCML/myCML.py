@@ -91,22 +91,12 @@ class RecallEvaluator(object):
         amin, amax = item_scores.min(), item_scores.max()
         item_scores = (item_scores - amin) / (amax - amin)
         idea_score = numpy.zeros(item_scores.shape[0])
-        # print('len: ', len(item_scores))
-        # print('item_scores: ', item_scores)
-        # print('idea_score1: ', idea_score)
-        # print('test_set: ')
 
         for i in test_set:
-            # print(i)
             idea_score[i] = 1
         idea_max = idea_score.max()
-        # print(idea_max)
         if idea_max < 1:
             return 11111.1
-        # print('len2: ', len(idea_score))
-        # print('idea_score2: ', idea_score)
-        # fpr, tpr, thresholds = roc_curve(idea_score, item_scores, pos_label=2)
-        # return auc(fpr, tpr)
 
         return roc_auc_score(idea_score, item_scores)
 
